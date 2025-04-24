@@ -40,7 +40,7 @@ Python | SQL | Power BI | Google Sheets | Jupyter Notebook | Git |
 
 ---
 
-### 📌 Highlight Projects (Be sure to pin these)
+### 📌 Highlight Projects
 
 - **Maji Ndogo Water Project**
 - **Heart Disease**  
